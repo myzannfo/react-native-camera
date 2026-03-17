@@ -1,2 +1,2 @@
-"# Conflict Test" 
-"Version 1 from Branch 1" 
+"Version 2 MODIFIED by Branch 1" 
+"Line 2 from Branch 1" 
